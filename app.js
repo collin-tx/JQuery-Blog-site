@@ -1,4 +1,3 @@
-
 $('#flashMessage').hide();
 
 $('#previewButton').click(function(){
